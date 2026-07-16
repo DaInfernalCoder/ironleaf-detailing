@@ -48,11 +48,11 @@ Build and launch a polished, call-led auto detailing website and Google Business
 - [x] Source and record licensed imagery.
 - [x] Build the static site.
 - [x] Run preflight and browser QA at desktop and phone widths.
-- [ ] Initialize git and commit `main`.
-- [ ] Create a dedicated GitHub repository and push.
-- [ ] Deploy through Vercel and connect GitHub.
+- [x] Initialize git and commit `main`.
+- [x] Create a dedicated GitHub repository and push.
+- [x] Deploy through Vercel and connect GitHub.
 - [ ] Attach apex and `www`, configure DNS, and verify HTTPS.
-- [ ] Build and validate the final GMB asset pack.
+- [x] Build and validate the final GMB asset pack.
 
 ## Current state
 
@@ -60,10 +60,16 @@ The phone, brand, domain, registration settings, and design direction are locked
 
 The plain HTML, CSS, and JavaScript site is built with licensed local photography and copied into the permanent project folder. Static preflight passes. Browser QA passes at 1440×1000 and 390×844 with one H1, no missing images, no JavaScript or console errors, no horizontal overflow, a legible solid header, a working mobile menu, and a contained two-button mobile bar. The public copy passed the required trigger-word scan.
 
+GitHub repository `DaInfernalCoder/ironleaf-detailing` is connected to Vercel project `ironleaf-detailing` for push deploys. Production deployment `dpl_68brkWE4GM8yqbZ6pQbk7tD8rzkV` is `READY` and aliased to `https://ironleaf-detailing.vercel.app`.
+
+The apex and `www` hosts are attached to the Vercel project. Spaceship is configured with `ns1.vercel-dns.com` and `ns2.vercel-dns.com`; high privacy remains active and auto-renew remains off.
+
+The validated GMB pack is saved at `/Users/sumit/Documents/gmb/Ironleaf Mobile Auto Detailing Houston Texas` with one 1200×1200 logo PNG, four unique 1600×900 cover JPGs, four unique business JPGs, a 695-character description, and complete source/license notes.
+
 ## Blocker
 
-None for repository publication and deployment.
+The new `.shop` registry delegation is still propagating. Public DNS does not yet return the Vercel nameservers even though Spaceship shows the correct custom selection.
 
 ## Exact next action
 
-Initialize `main`, create and push the dedicated GitHub repository, then deploy through Vercel.
+Poll the `.shop` parent delegation until Vercel's nameservers are public, then verify apex and `www` through Vercel and run the live HTTPS content checks.
