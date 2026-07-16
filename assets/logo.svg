@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 160" role="img" aria-labelledby="title">
+  <title id="title">Ironleaf</title>
+  <rect width="160" height="160" rx="24" fill="#101417"/>
+  <path d="M28 102c19-49 50-73 103-72-4 53-29 86-76 100 8-13 17-24 28-34-18 4-36 6-55 6Z" fill="#e85d2a"/>
+  <path d="M44 113c22-27 45-48 73-64" fill="none" stroke="#f4f6f2" stroke-width="10" stroke-linecap="round"/>
+  <path d="M77 88h41M64 101h29" stroke="#101417" stroke-width="6" stroke-linecap="round" opacity=".8"/>
+</svg>
