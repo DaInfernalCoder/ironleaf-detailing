@@ -14,3 +14,14 @@
 - Service: Appointment-based mobile car detailing
 - Booking: https://cal.com/sumitdatta/auto-detail-service
 - Google review profile: https://g.page/r/CT4qX21shCbbEBM/review
+
+<!-- SEO-NEXT:START -->
+## Expanded pages
+- [Services](https://ironleafdetailing.shop/services/)
+- [Interior Car Detailing](https://ironleafdetailing.shop/services/interior-car-detailing/)
+- [Exterior Car Detailing](https://ironleafdetailing.shop/services/exterior-car-detailing/)
+- [Mobile Car Wash](https://ironleafdetailing.shop/services/mobile-car-wash/)
+- [Headlight Restoration & Polishing](https://ironleafdetailing.shop/services/headlight-restoration/)
+- [About](https://ironleafdetailing.shop/about/)
+- [Contact](https://ironleafdetailing.shop/contact/)
+<!-- SEO-NEXT:END -->
