@@ -3,9 +3,9 @@
 > Appointment-based mobile car detailing in Houston, Texas.
 
 ## Primary pages
-- [Homepage](https://ironleafdetailing.shop/): Business, service, pricing, process, and contact information.
-- [Services](https://ironleafdetailing.shop/#services): Interior, exterior, and complete vehicle detailing options.
-- [Local service information](https://ironleafdetailing.shop/#local-detailing): How mobile detailing works in Houston.
+- [Homepage](https://houstoncardetailinghandwash.shop/): Business, service, pricing, process, and contact information.
+- [Services](https://houstoncardetailinghandwash.shop/#services): Interior, exterior, and complete vehicle detailing options.
+- [Local service information](https://houstoncardetailinghandwash.shop/#local-detailing): How mobile detailing works in Houston.
 
 ## Verified business facts
 - Business name: Ironleaf Mobile Car Detailing Houston
@@ -17,11 +17,11 @@
 
 <!-- SEO-NEXT:START -->
 ## Expanded pages
-- [Services](https://ironleafdetailing.shop/services/)
-- [Interior Car Detailing](https://ironleafdetailing.shop/services/interior-car-detailing/)
-- [Exterior Car Detailing](https://ironleafdetailing.shop/services/exterior-car-detailing/)
-- [Mobile Car Wash](https://ironleafdetailing.shop/services/mobile-car-wash/)
-- [Headlight Restoration & Polishing](https://ironleafdetailing.shop/services/headlight-restoration/)
-- [About](https://ironleafdetailing.shop/about/)
-- [Contact](https://ironleafdetailing.shop/contact/)
+- [Services](https://houstoncardetailinghandwash.shop/services/)
+- [Interior Car Detailing](https://houstoncardetailinghandwash.shop/services/interior-car-detailing/)
+- [Exterior Car Detailing](https://houstoncardetailinghandwash.shop/services/exterior-car-detailing/)
+- [Mobile Car Wash](https://houstoncardetailinghandwash.shop/services/mobile-car-wash/)
+- [Headlight Restoration & Polishing](https://houstoncardetailinghandwash.shop/services/headlight-restoration/)
+- [About](https://houstoncardetailinghandwash.shop/about/)
+- [Contact](https://houstoncardetailinghandwash.shop/contact/)
 <!-- SEO-NEXT:END -->

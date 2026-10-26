@@ -13,4 +13,4 @@ Allow: /
 User-agent: ClaudeBot
 Allow: /
 
-Sitemap: https://ironleafdetailing.shop/sitemap.xml
+Sitemap: https://houstoncardetailinghandwash.shop/sitemap.xml

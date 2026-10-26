@@ -12,7 +12,7 @@ Build and launch a polished, call-led auto detailing website and Google Business
 - Street address: 1818 Edwards St, Houston, TX 77007
 - Phone: +1 346-509-7033
 - Appointment link: https://cal.com/sumitdatta/auto-detail-service
-- Domain: `ironleafdetailing.shop`
+- Domain: `houstoncardetailinghandwash.shop`
 - Domain status: registered July 16, 2026 through July 16, 2027
 - Registration settings: one year, high privacy, `autoRenew: false`
 
@@ -41,7 +41,7 @@ Build and launch a polished, call-led auto detailing website and Google Business
 
 - [x] Confirm Houston, Texas and phone number.
 - [x] Screen the Ironleaf name for local and same-category conflicts.
-- [x] Check `ironleafdetailing.shop` availability and current price through Spaceship.
+- [x] Check `houstoncardetailinghandwash.shop` availability and current price through Spaceship.
 - [x] Obtain explicit purchase approval.
 - [x] Register with high privacy and auto-renew off.
 - [x] Define and critique the design direction.
