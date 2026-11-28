@@ -6,7 +6,7 @@ Plain HTML, CSS, and JavaScript marketing site for `houstoncardetailinghandwash.
 
 - Houston, Texas
 - +1 346-509-7033
-- Online appointments: https://cal.com/sumitdatta/auto-detail-service
+- Online appointments: https://houstoncardetailinghandwash.shop/scheduling
 
 ## Local preview
 

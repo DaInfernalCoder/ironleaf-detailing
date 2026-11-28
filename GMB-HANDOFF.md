@@ -11,7 +11,7 @@ Build and launch a polished, call-led auto detailing website and Google Business
 - Primary market: Houston, Texas
 - Street address: 1818 Edwards St, Houston, TX 77007
 - Phone: +1 346-509-7033
-- Appointment link: https://cal.com/sumitdatta/auto-detail-service
+- Appointment link: https://houstoncardetailinghandwash.shop/scheduling
 - Domain: `houstoncardetailinghandwash.shop`
 - Domain status: registered July 16, 2026 through July 16, 2027
 - Registration settings: one year, high privacy, `autoRenew: false`
